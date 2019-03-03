@@ -1,0 +1,39 @@
+{
+  "name": "lrs_k12",
+  "version": "1.0.0",
+  "description": "Gulpv4",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-download": "0.0.1",
+    "gulp-install": "^0.6.0",
+    "gulp-sass": "^4.0.1",
+    "pump": "^3.0.0"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-install": "^0.6.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.4",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Ossama Ghanem",
+  "license": "ISC"
+}
